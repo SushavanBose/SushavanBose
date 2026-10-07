@@ -77,14 +77,14 @@ Explored appliance identification using power-consumption patterns.|
 <div align="center">
 
 <a href="https://linkedin.com/in/amansingh">
-<img src="https://img.shields.io/badge/LinkedIn-Aman%20Singh-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sushavan%20Bose-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/no_w_here_to_">
+<a href="https://instagram.com/Sushavan0421">
 <img src="https://img.shields.io/badge/Instagram-Creative-purple?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="mailto:amansingh7494@gmail.com">
+<a href="mailto:sushavanbose@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
