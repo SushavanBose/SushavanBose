@@ -18,7 +18,7 @@ IoT & Embedded Systems Focus (If applying for Hardware/IoT roles)Driven BCA grad
 
 ## 🚀 Featured Projects
 
-| Project 
+| Project | Description |
 |-------|------------|
 | **loT-Based Smart Energy Meter** | 
 Developed an loT-based smart energy monitoring systern for measuring voltage, current, power and energy consumption in real time.
