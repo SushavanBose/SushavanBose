@@ -43,13 +43,7 @@ Explored appliance identification using power-consumption patterns.|
 ### 💻 Development Environment
 ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)
 
-### 🎮 Gameplay Systems
-- Player Controllers
-- Weapon Mechanics
-- State Machines (FSM)
-- Physics & Collisions
-- Level Streaming
-- Asset Optimization
+
 
   
 ## 📊 GitHub Analytics
