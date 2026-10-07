@@ -20,7 +20,7 @@ IoT & Embedded Systems Focus (If applying for Hardware/IoT roles)Driven BCA grad
 
 | Project |  
 |-------|
-| **loT-Based Smart Energy Meter** | 
+| **loT-Based Smart Energy Meter--** | 
 Developed an loT-based smart energy monitoring systern for measuring voltage, current, power and energy consumption in real time.
 Integrated ESP8266/NodeMCU, ACS current sensor, ZMPT101B voltage sensor, ADS1115 ADC and I2C ιD.
 Implemented Blynk cloud integration for remote monitoring and appliance control.
