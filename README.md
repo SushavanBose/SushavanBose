@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=220&section=header&text=Aman%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=220&section=header&text=Sushavan%20Bose&fontSize=48&fontColor=ffffff&fontAlignY=40"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Gaming+%26+Graphics+Enthusiast;Unreal+Engine+%7C+React+Developer;Creative+UI+Engineer"/>
 
