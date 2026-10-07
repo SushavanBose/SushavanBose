@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Bachelor+in+Computer+Applications"/>
 
-<img src="https://komarev.com/ghpvc/?username=amansingh1231&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=SushavanBose&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👨💻 Professional Summary
 
-Frontend Developer at **Devi and Kikhi Private Limited** with expertise in responsive UI, performance optimization, and interactive web applications. Passionate about merging **gaming, graphics, and modern frontend technologies** to create immersive digital experiences.
+IoT & Embedded Systems Focus (If applying for Hardware/IoT roles)Driven BCA graduate specializing in IoT development, embedded hardware, and network management. Successfully engineered an IoT-based Smart Energy Meter for real-time electrical parameter tracking using ESP8266 microcontrollers, sensor suites, LCD interfaces, and Blynk Cloud connectivity. Proficient in Python and databases, seeking to build scalable IoT and network infrastructure solutions.
 
 ---
 
