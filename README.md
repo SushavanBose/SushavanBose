@@ -33,7 +33,7 @@ Explored appliance identification using power-consumption patterns.|
 
 
 ### 🌐 Web & Programming
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,cs,c#)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,c++)
 
 ### 🎨 Design
 ![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)
