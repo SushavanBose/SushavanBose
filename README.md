@@ -50,7 +50,7 @@ Explored appliance identification using power-consumption patterns.|
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansingh1231&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SushavanBose&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh1231&theme=tokyonight&hide_border=true" height="180"/>
 
