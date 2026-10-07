@@ -26,9 +26,7 @@ Integrated ESP8266/NodeMCU, ACS current sensor, ZMPT101B voltage sensor, ADS1115
 Implemented Blynk cloud integration for remote monitoring and appliance control.
 Explored appliance identification using power-consumption patterns.|
 
-👉 View all: https://github.com/Amansingh1231?tab=repositories  
 
----
 
 
 ## 🛠️ Tech Stack
