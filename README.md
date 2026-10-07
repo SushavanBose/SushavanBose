@@ -36,7 +36,7 @@ Explored appliance identification using power-consumption patterns.|
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,c++)
 
 ### 🎨 Design
-![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)
+![My Skills](https://skillicons.dev/icons?i=figma)
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 🎮 Gaming & 3D Graphics
