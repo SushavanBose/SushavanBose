@@ -69,8 +69,8 @@ Explored appliance identification using power-consumption patterns.|
 ---
 
 ## 📄 Resume
-[![Download Resume](https://img.shields.io/badge/📄_Download-Resume_PDF-2563eb?style=for-the-badge)](https://github.com/Amansingh1231/Amansingh1231/blob/main/Aman_singh_resume.pdf)
-[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Amansingh1231/Amansingh1231/blob/main/Aman_singh_resume.pdf)
+[![Download Resume](https://img.shields.io/badge/📄_Download-Resume_PDF-2563eb?style=for-the-badge)](https://github.com/SushavanBose/SushavanBose/blob/main/resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/SushavanBose/SushavanBose/blob/main/resume.pdf)
 
 ## 🌐 Connect With Me
 
